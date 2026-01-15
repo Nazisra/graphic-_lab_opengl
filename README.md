@@ -49,4 +49,4 @@ Go to settings in Vs Code > write includepath >
 ${env:MSYS2}/mingw64/include/ > add item
 Download code Zip from my repository
 here is the drive link 
-
+https://drive.google.com/drive/folders/1Ifam1ftJ9OtvxzzYPrH4-DMuz2PteHuN?usp=drive_link
